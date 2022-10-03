@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deploy-color-palette/static/css/main.eee4d4ed.css",
+    "main.js": "/deploy-color-palette/static/js/main.53111e3c.js",
+    "static/js/787.0fb6e0a2.chunk.js": "/deploy-color-palette/static/js/787.0fb6e0a2.chunk.js",
+    "index.html": "/deploy-color-palette/index.html",
+    "main.eee4d4ed.css.map": "/deploy-color-palette/static/css/main.eee4d4ed.css.map",
+    "main.53111e3c.js.map": "/deploy-color-palette/static/js/main.53111e3c.js.map",
+    "787.0fb6e0a2.chunk.js.map": "/deploy-color-palette/static/js/787.0fb6e0a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee4d4ed.css",
+    "static/js/main.53111e3c.js"
+  ]
+}
